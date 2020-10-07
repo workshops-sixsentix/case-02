@@ -1,0 +1,10 @@
+{
+  "name": "dummy-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcello Bardus <marcellobardus8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.2.0"
+  }
+}
